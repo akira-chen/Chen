@@ -1,1 +1,2 @@
 not staged and try to commit
+updated for commit, but not stated
